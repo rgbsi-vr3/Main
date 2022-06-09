@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <default sync-j="4" revision="pyro"/>
+
+  <remote fetch="https://github.com/vigneshrgbsi"  name="rits"/>
+
+  <project remote="rits" revision="1be6f2025048e5d98c153537148919d5a346360d" upstream="dev" name="Uploader" path="Uploader"/>
+  <project remote="rits" revision="b9023dda5b810e595c83adc0a3ba44dd267edea8" upstream="dev" name="sources" path="sources"/>
+  <project remote="rits" revision="3610089e400d8a3e70e31cad7f2b1905cc4f45b4" upstream="dev" name="SMC" path="SMC"/>
+  <project remote="rits" revision="0fd113e6ce64c941e7d7bfffa05c28400d7e0115" upstream="dev" name="Screens" path="Screens"/>
+  <project remote="rits" revision="f54b34c564082d5611321bf152adc4c8d40aeb95" upstream="dev" name="PIS" path="PIS"/>
+  <project remote="rits" revision="f8b7bb1069425031730fed8a0a27d02ff16ecfba" upstream="dev" name="NMEA" path="NMEA"/>
+  <project remote="rits" revision="ce1ef3168e909251954688c86f3bf3dcc37487d4" upstream="dev" name="MQTT_Server" path="MQTT_Server"/>
+  <project remote="rits" revision="107bf0151f9fd64674fbf10e36e3ba6ce2bb27f9" upstream="dev" name="IPC" path="IPC"/>
+  <project remote="rits" revision="be3d89bb8cbde0ca5ce7b8a0689d94d700dc6304" upstream="dev" name="GPIO" path="GPIO"/>
+  <project remote="rits" revision="f8b443b3028655cc8abf25da2710171c635ab74d" upstream="dev" name="FM_Radio" path="FM_Radio"/>
+  <project remote="rits" revision="c6146dafd535b20eeae0294468847cc696e0398a" upstream="dev" name="Firmware_Update" path="Firmware_Update"/>
+  <project remote="rits" revision="25494cf43344153550f205aeb1dd50c3e8e2ee52" upstream="dev" name="Camera" path="Camera"/>
+  <project remote="rits" revision="a053cb1c93de3741871049ebc3560458a69aa7b6" upstream="dev" name="UI_Settings" path="UI_Settings"/>
+  <project remote="rits" revision="2ceaeb74457c92d039b8a73587489503bb6da740" upstream="dev" name="Logger" path="Logger"/>
+  <project remote="rits" revision="aaadf077911c0acfb10ebf5f9ad8e8999a09dee8" upstream="dev" name="Modem" path="Modem"/>
+
+</manifest>
